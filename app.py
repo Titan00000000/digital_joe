@@ -16,15 +16,17 @@ st.set_page_config(page_title="Digital Joe Assistant", page_icon="🤖")
 # --- CUSTOM CSS FOR BRANDING & MOBILE RESPONSIVENESS ---
 st.markdown("""
     <style>
-        /* Respect vertical viewport space for mobile keyboards */
-        [data-testid="stAppViewContainer"] {
+        /* Base Dark Theme Overrides */
+        .stApp, [data-testid="stAppViewContainer"] {
+            background-color: #1e1e1e !important;
+            color: #ffffff !important;
             height: 100svh !important;
             overflow-y: auto !important;
             overflow-x: hidden !important;
             width: 100vw !important;
         }
 
-        /* Fixed Chat Input bar */
+        /* Fixed Chat Input bar with Dark Styling */
         [data-testid="stChatInput"] {
             position: fixed !important;
             bottom: 10px !important;
@@ -34,11 +36,24 @@ st.markdown("""
             right: 2.5vw !important;
             padding-bottom: 10px !important;
             max-width: 100% !important;
+            background-color: #1e1e1e !important;
         }
-        
-        /* Padding to prevent chat messages from hiding under the fixed input bar */
+
+        [data-testid="stChatInput"] textarea {
+            background-color: #2b2b2b !important;
+            color: #ffffff !important;
+            border: 1px solid #444444 !important;
+        }
+
+        /* Chat Message Containers & Dark Backgrounds */
         [data-testid="stChatMessageContainer"] {
             padding-bottom: 100px !important;
+        }
+
+        [data-testid="stChatMessage"] {
+            background-color: #2b2b2b !important;
+            color: #ffffff !important;
+            border-radius: 8px !important;
         }
 
         div.stApp {
@@ -57,14 +72,30 @@ st.markdown("""
             padding-bottom: 95px !important;
         }
         
-        /* Uniform Font Styles */
-        html, body, [class*="css"], .stMarkdown, p, span, div, caption, .stTextInput, textarea, input, label {
+        /* Uniform Font Styles & Universal White Text (Excluding Custom Title) */
+        html, body, [class*="css"], .stMarkdown, p, span, div, caption, .stTextInput, textarea, input, label, [data-testid="stMarkdownContainer"] p {
             font-size: 15px !important;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+            color: #ffffff !important;
         }
 
-        input::placeholder {
+        /* Button Styling (Quick Questions / Action Buttons) */
+        .stButton button {
+            background-color: #2b2b2b !important;
+            color: #ffffff !important;
+            border: 1px solid #444444 !important;
+            border-radius: 8px !important;
+        }
+
+        .stButton button:hover {
+            background-color: #383838 !important;
+            border-color: #00A8B5 !important;
+            color: #ffffff !important;
+        }
+
+        input::placeholder, textarea::placeholder {
             font-size: 15px !important;
+            color: #aaaaaa !important;
         }
         
         /* Title & Caption Styling */
@@ -79,9 +110,8 @@ st.markdown("""
 
         .digitaljoe-caption {
             font-size: 14px !important;
-            color: #555555 !important;
             margin-bottom: 15px !important;
-            color: #FFFFFF !important;
+            color: #ffffff !important;
         }
     </style>
 """, unsafe_allow_html=True)
