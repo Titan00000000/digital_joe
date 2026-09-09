@@ -59,6 +59,16 @@ st.markdown("""
         [data-testid="stChatMessageContainer"] {
             padding-bottom: 100px !important;
         }
+        
+        /* Remove internal container borders and outlines */
+        [data-testid="stAppViewContainer"],
+        [data-testid="stHeader"],
+        .block-container,
+        div[data-testid="stVerticalBlock"] > div {
+        border: none !important;
+        outline: none !important;
+        box-shadow: none !important;
+        }
 
         [data-testid="stChatMessage"] {
             background-color: #2b2b2b !important;
