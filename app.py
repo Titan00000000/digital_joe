@@ -127,7 +127,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- BRANDED TITLE & SUBTEXT ---
-st.markdown('<p class="digitaljoe-title">Digital Joe Assistant</p>', unsafe_allow_html=True)
 st.markdown('<p class="digitaljoe-caption">Ask questions about AI & Computer Science tutoring, Power BI dashboards, and custom AI tools.</p>', unsafe_allow_html=True)
 
 # --- DEFINE CUSTOM AVATARS (Matching your directory files) ---
