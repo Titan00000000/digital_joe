@@ -349,35 +349,14 @@ def interact_with_bot(user_message: str) -> str:
 # --- DISPLAY CHAT HISTORY ---
 chat_container = st.container()
 
-# Define options globally so they can be checked regardless of history length
-options = [
-    "What services do you offer?",
-    "What are your rates and pricing tiers?",
-    "How can I book AI or Data tutoring?",
-]
-
 with chat_container:
-    # Handle button clicks first if history is empty
-    if not st.session_state.chat_session_history:
-        st.markdown(
-            "Hi, I'm the Digital Joe Assistant. How can I help you today?  \n\n"
-            "**Top 3 Questions:**"
-        )
-        
-        for option in options:
-            if st.button(option, key=f"btn_{option}"):
-                st.session_state.chat_session_history.append(HumanMessage(content=option))
-                reply = interact_with_bot(option)
-                st.session_state.chat_session_history.append(AIMessage(content=str(reply)))
-                # st.rerun() removed here
-
     # Render existing conversation history
     for message in st.session_state.chat_session_history:
         role = "user" if isinstance(message, HumanMessage) else "assistant"
         avatar = USER_AVATAR if role == "user" else ASSISTANT_AVATAR
         with st.chat_message(role, avatar=avatar):
             st.markdown(message.content)
-
+         
 # --- USER INPUT PROCESSING ---
 if user_input := st.chat_input("How can I help you today?"):
     st.session_state.chat_session_history.append(HumanMessage(content=user_input))
