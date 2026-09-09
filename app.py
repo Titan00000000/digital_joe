@@ -369,7 +369,7 @@ with chat_container:
                 st.session_state.chat_session_history.append(HumanMessage(content=option))
                 reply = interact_with_bot(option)
                 st.session_state.chat_session_history.append(AIMessage(content=str(reply)))
-                st.rerun()
+                # st.rerun() removed here
 
     # Render existing conversation history
     for message in st.session_state.chat_session_history:
