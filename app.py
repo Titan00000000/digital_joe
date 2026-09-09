@@ -16,7 +16,7 @@ st.set_page_config(page_title="Digital Joe Assistant", page_icon="🤖")
 # --- CUSTOM CSS FOR BRANDING & MOBILE RESPONSIVENESS ---
 st.markdown("""
     <style>
-        /* Base Dark Theme Overrides */
+        /* Base Dark Theme Overrides & Outer Container Border */
         .stApp, [data-testid="stAppViewContainer"] {
             background-color: #1e1e1e !important;
             color: #ffffff !important;
@@ -24,6 +24,20 @@ st.markdown("""
             overflow-y: auto !important;
             overflow-x: hidden !important;
             width: 100vw !important;
+            border: 1px solid #ffffff !important; /* Outer Border */
+            border-radius: 12px !important;
+            box-sizing: border-box !important;
+        }
+
+        /* Remove All Inner Component Borders & Outlines */
+        .block-container,
+        [data-testid="stMainBlockContainer"],
+        [data-testid="stHeader"],
+        div[data-testid="stVerticalBlock"] > div,
+        div[data-testid="stElementToolbar"] {
+            border: none !important;
+            outline: none !important;
+            box-shadow: none !important;
         }
 
         /* Fixed Chat Input Outer Area & Bottom Container */
@@ -31,7 +45,8 @@ st.markdown("""
         [data-testid="stBottom"] > div,
         [data-testid="stChatInputContainer"] {
             background-color: #1e1e1e !important;
-            border-color: #333333 !important;
+            border: none !important;
+            border-color: transparent !important;
         }
 
         /* Fixed Chat Input Bar Styling */
@@ -59,21 +74,12 @@ st.markdown("""
         [data-testid="stChatMessageContainer"] {
             padding-bottom: 100px !important;
         }
-        
-        /* Remove internal container borders and outlines */
-        [data-testid="stAppViewContainer"],
-        [data-testid="stHeader"],
-        .block-container,
-        div[data-testid="stVerticalBlock"] > div {
-        border: none !important;
-        outline: none !important;
-        box-shadow: none !important;
-        }
 
         [data-testid="stChatMessage"] {
             background-color: #2b2b2b !important;
             color: #ffffff !important;
             border-radius: 8px !important;
+            border: none !important;
         }
 
         div.stApp {
