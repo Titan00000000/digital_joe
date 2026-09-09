@@ -1,0 +1,971 @@
+﻿
+--- Source: https://www.digitaljoe.io/ ---
+Digital Joe | Practical AI, Data & Power BI Solutions
+Practical AI, Data & Computer Science Solutions
+I help businesses and learners make sense of their numbers and automate routine tasks without the confusing tech speak.
+Tailored Tutoring, Data Consultancy and AI -
+Zero Jargon.
+Tutoring, custom Power BI dashboards, bespoke AI solutions all designed to save you time and build your confidence.
+Jargon Buster
+Power BI
+A visual tool that connects to your data and turns rows of numbers into easy to read charts.
+Machine Learning
+Software that learns patterns from your past business data to predict future trends and turn messy data into readable charts, helping you save money, automate decisions, and boost your return on investment (ROI).
+Artificial Intelligence
+By grounding AI tools in your internal documents and notes, they can provide instant answers to your team's questions. You can also automate daily tasks including writing emails and summarising key documents to save valuable time.
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
+
+--- Source: https://www.digitaljoe.io/about/ ---
+About Joe | 20+ Years in Computer Science & AI Leadership
+Hi, I’m Timur Rahman but most people know me as Joe
+20+ years of teaching, coaching, and solving data challenges.
+Patience
+First
+With decades in education, there are no "silly questions."
+Practical
+Focus
+I focus on real business results (saving time, increasing clarity), not flashy technical hype.
+End-to-End
+Experience
+From creating training content to building data and AI solutions, Digital Joe handles the technical heavy lifting so clients don't have to.
+A little bit about me...
+The Origin of Joe
+Officially, I’m Timur Rahman, but I’ve been known as Joe (from my middle name, Yusuf) since primary school. When I launched my consultancy, Digital Joe was the natural choice.
+From 48k of RAM to the Future of AI
+My passion for tech started at age eight, coding a simple pixel-dodging game on a ZX Spectrum 48k after being inspired by the movie
+WarGames
+. That early spark grew into an A-Level, BSc, and MSc in Computer Science, along with a lifelong love for technology and gaming.
+20+ Years of Real-World Experience
+I spent over two decades teaching Computer Science. When I took over my school’s struggling department, we turned it around to rank in the top 20% nationally. That experience—alongside serving as a governor at Bury College—taught me how to communicate complex ideas clearly and implement digital tools strategically across organisations.
+Demystifying Data Science & AI
+Since 2021, I’ve coached professionals in Data Science and AI, stripping away the jargon to make learning interactive, practical, and hands-on. I help clients navigate AI strategy, generative and agentic AI, and data engineering so they can turn raw data into automated insights.
+Ready to Get Started?
+Explore how we can work together, or head over to the contact page to drop me a message!
+Discover Digital Services
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
+
+--- Source: https://www.digitaljoe.io/services/ ---
+Services & Pricing | Power BI Dashboards, AI Tools & Tutoring
+Services &
+Transparent
+Pricing
+Clear, fixed scope options for businesses and learners.
+Services Offered
+01
+Tutoring
+Personalised and group coaching available in Python, SQL, Power BI, or AI, delivered at your pace.
+02
+Smart Dashboards
+Turn messy spreadsheets into simple visual screens that track your business metrics
+.
+03
+Tailored AI Tools
+Custom AI assistants trained on your documents to answer questions and automate tasks.
+Services, Package Details and Pricing
+### Service Category: 01 Tutoring
+
+| Services | Package Details | Prices |
+| --- | --- | --- |
+| 1-to-1 GCSE Computer Science Mentoring | Tailored lessons to help you get the best grade possible for GCSE Computer Science. | £50 per hour. |
+| 1-to-1 Data & AI Mentoring | Personalised coaching in Data Analytics, Power BI, Python, or AI fundamentals. | £60 per hour. |
+| Group training on AI, AI Leadership or Data | Interactive workshops or lecturing can be provided to groups on how to use data effectively. This can be a class of 10 or a lecture group of 100 | £40per person for 3 hours of training per half day. <br> £75per person for 6 hours of training per day. |
+| Associate trainer with Independent Training Providers | Training your cohorts in AI, Data or Computer Science | Can be negotiated per half day or day. |
+### Service Category: 02 Smart Dashboards
+
+| Services | Package Details | Prices |
+| --- | --- | --- |
+| Power BI Dashboard Build | Turning your raw spreadsheets into an automated, interactive visual dashboard for fast decision making. | £2000for a Single school/business). <br> +£1000for each additional school within a MAT or multi-site business. |
+### Service Category: 03 Tailored AI Tools
+
+| Services | Package Details | Prices |
+| --- | --- | --- |
+| AI Automation Workspace Setup | Pre-configuring prompt libraries and AI tool workflows tailored to your business needs. | £150 for a one off set up fee. |
+| AI Automation Workspace Training | Interactive half day or full day team training on using the new setup effectively. | £40per person for a half day. <br> £75per person for a full day. |
+| Custom AI Knowledge Assistant | A bespoke AI chatbot grounded on your organisation's internal files and documentation, delivering instant, accurate, and secure answers across your systems. | £950for a starter build. Up to 25 pages / Single domain (FAQs, basic policy bot). 1 month support included. <br> £2450for a professional build. Up to 200 pages / Multi-document ingestion / CRM or booking integration. 3 months support included. |
+| Agentic AI | Custom autonomous AI agents designed to execute complex, multi step workflows such as automated document processing, data extraction, and intelligent inquiry routing saving your business time and reducing operational costs. | Scope and pricing tailored based on system complexity and data integration needs. On-Going Support for £50 per hour. API usage fees billed separately. |
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
+
+--- Source: https://www.digitaljoe.io/reviews/ ---
+Client Reviews & Results | Data Engineering & AI Case Studies
+Reviews
+"
+I couldn’t recommend his technical expertise and client focused approach more highly.
+"
+Real Results for Business & Learners
+See how clear teaching in data techniques and both practical and leadership AI can make a difference.
+Alistair Hilton
+Partner - Head of Sales & Lettings
+The Brief:
+Balfours needed a clear 2026 AI roadmap to unite fragmented proposal options across their regional business.
+"We are a large regional Property Management firm who have been considering the implementation of our AI strategy over the course of 2026. Having asked a number of AI providers to suggest and propose a way forward for us, I found Digital Joe to be quick in understanding our needs and those of our clients and assemble a Roadmap of efficiencies which took these points into consideration – Thank you Joe. Alistair J Hilton, Partner at Balfours LLP"
+Mel Otterly O-Connor
+Assistant Headteacher
+The Brief:
+Oulder Hill needed a leader to turn around subject performance and drive whole-school digital transformation.
+"Having worked closely with Joe for seven years, I saw him play a pivotal role in turning around Computer Science results using deep technical expertise and data driven insights. He excels at translating complex concepts into practical solutions for teachers, leaders, and governors alike. Joe also spearheaded whole school digital transformation, delivering clear staff training on platforms like Microsoft 365 to streamline operations. Combining strong leadership, data expertise, and a deep understanding of school challenges, Joe is an invaluable asset for any institution aiming to elevate outcomes with clever use of technology."
+Joanne Stephenson
+Business Owner
+The Brief:
+The Sunday Therapist required a safe, user friendly chatbot to safely and legally answer client inquiries automatically.
+"Adding a chatbot to my website has been a good business move. It has attracted significantly more traffic and led to increased bookings. I am not tech savvy but Joe took the time to explain the implementation process in clear, straightforward terms. He consulted with me throughout, ensuring the chatbot could answer likely questions while also considering unwanted queries and how to handle them without creating potential legal concerns for my company. I would highly recommend Joe to help with your AI needs."
+Katherine Parker
+Executive Director of Secondary Education
+The Brief:
+The Trust required expert database architecture to replace disjointed school spreadsheets with a streamlined, relational data system.
+"Joe provided an outstanding service to our trust. He took complex, disjointed spreadsheets across multiple schools and turned them into a streamlined Power BI relational database with highly clear, actionable dashboards. The time saved across our schools was immediate, and the clarity of the data was invaluable when preparing for and navigating Ofsted visits. Joe worked closely with me from the initial scope to final delivery, checking in regularly to ensure the system fit our exact requirements and offering thorough support after launch. I couldn’t recommend his technical expertise and client focused approach more highly."
+Suffian Burki
+Leader of Maths
+The Brief:
+The Leader of Maths needed expert data training to make sharper, evidence-based decisions that improved student outcomes.
+"Joe was involved in both supporting my teaching and data analysis. Joe consistently demonstrated strong analytical skills and a keen attention to detail, helping me to produce high quality work that informed outcomes for students."
+Mark Cartledge
+Teacher of Maths
+The Brief:
+The client required patient, practical programming tuition to master Python fundamentals which was enjoyed as a hobby.
+"Joe taught me the basics of Python code in a way that actually made sense. He's patient, uses clear and practical examples and breaks everything down into small steps. Within a few sessions I was writing my own code and feeling confident. He's great at answering questions and making sure you understand the 'why' behind the code. I would highly reccommend him if you want to learn properly."
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
+
+--- Source: https://www.digitaljoe.io/contact/ ---
+Contact Digital Joe | Book a Free 1-Hour Consultation
+Lets talk about your goals
+No technical knowledge needed. Just share what you're hoping to achieve.
+Contact
+Please feel free to contact me for a free 1 hour consultation on your tutoring Data or AI needs.
+i
+We need your consent to load this map
+We use a third party service to embed maps content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the map.
+Accept
+Title
+*
+This field is mandatory
+First name
+*
+This field is mandatory
+Last name
+*
+This field is mandatory
+Phone number
+E-Mail address
+*
+This field is mandatory
+The e-mail address is invalid
+Please type your message here.
+*
+This field is mandatory
+I hereby agree that this data will be stored and processed for the purpose of establishing contact. I am aware that I can revoke my consent at any time.
+*
+This field is mandatory
+* Indicates required fields
+Send
+There was an error submitting your message. Please try again.
+Thank you! We will get back to you as soon as possible.
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
+
+--- Source: https://www.digitaljoe.io/legal-notice/ ---
+Digital Joe | Legal Notice
+Legal Notice
+Name of company
+Digital Joe (operated by Timur Rahman trading as Digital Joe)
+Registered office
+Digital Joe
+First Floor, Swan Buildings
+20
+Swan Street
+Manchester
+M4 5JW
+Contact details
+Email: t.rahman@digitaljoe.io
+Regulatory authority
+Information Commissioner's Office (ICO)
+Image Rights
+The following Unsplash images have been added to the site:
+Photo by
+Maximalfocus
+on
+Unsplash
+Photo by
+Julius Drost
+on
+Unsplash
+Photo by
+Moritz Mentges
+on
+Unsplash
+Photo by
+chester wade
+on
+Unsplash
+Photo by
+Harrison Qi
+on
+Unsplash
+Photo by
+Ben Blennerhassett
+on
+Unsplash
+Photo by
+Victor Rodriguez
+on
+Unsplash
+Photo by
+Aleksandr Popov
+on
+Unsplash
+Photo by
+Zak
+on
+Unsplash
+Photo by
+Valentin BEAUVAIS
+on
+Unsplash
+Photo by
+Jase Bloor
+on
+Unsplash
+Photo by
+RHUM Phan
+on
+Unsplash
+Photo by
+Laura Cleffmann
+on
+Unsplash
+Photo by
+Mikita Yo
+on
+Unsplash
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
+
+--- Source: https://www.digitaljoe.io/privacy-policy/ ---
+Digital Joe | Privacy Policy
+Privacy Policy
+Effective Date:
+7 September 2026
+Digital Joe ("we", "our", or "us") is committed to protecting and respecting your privacy. This Privacy Policy explains how personal information is collected, used, and safeguarded when you visit digitaljoe.io or engage our services.
+For the purposes of the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018, the Data Controller is
+Timur (Joe) Rahman trading as Digital Joe
+.
+1. Information Collected
+We may collect and process the following personal information:
+Contact Information:
+Name, email address, phone number, and any message details submitted via our website contact forms or email inquiries.
+Service & Project Data:
+Information provided during consultations, tutoring sessions, or project scoping (e.g., educational context, business documentation, data dashboard requirements).
+Technical Data:
+Internet Protocol (IP) addresses, browser types, and general site usage analytics gathered automatically when browsing our website.
+2. How Your Information Is Used
+Your data is used solely for legitimate business purposes, including:
+Responding to your inquiries and scheduling consultations or tutoring sessions.
+Delivering contracted data engineering, Power BI, AI consultancy, or tutoring services.
+Issuing invoices, managing account records, and fulfilling legal obligations.
+Improving our website usability, services, and communication.
+3. Legal Basis for Processing Personal Data
+Under UK GDPR, we process your personal data under the following lawful bases:
+Consent:
+When you explicitly submit a message via our contact form agreeing to be contacted.
+Contractual Necessity:
+When processing is required to deliver agreed services or take steps prior to entering into a contract.
+Legitimate Interests:
+To manage and grow our business efficiently while ensuring your rights and privacy are protected.
+4. Data Sharing & Third-Party Services
+We do
+not
+sell, rent, or trade your personal data to third parties. We may share data only with trusted service providers necessary to operate our business (e.g., web hosting platforms like IONOS, secure email providers, or cloud accounting tools), all of which comply with UK data protection laws.
+We may also disclose information if required to do so by law or to respond to valid legal processes.
+5. Data Security & Retention
+We implement robust administrative and technical security measures to protect your personal information against unauthorised access, alteration, disclosure, or destruction.
+Personal data is retained only for as long as necessary to fulfill the purposes for which it was collected, including satisfying any legal, accounting, or reporting requirements.
+6. Your Rights Under UK GDPR
+Under UK data protection law, you have the following rights regarding your personal information:
+Right of Access:
+Request a copy of the personal data held about you.
+Right to Rectification:
+Request correction of inaccurate or incomplete data.
+Right to Erasure:
+Request the deletion of your personal data ("right to be forgotten").
+Right to Restrict or Object:
+Object to or restrict certain processing activities.
+Right to Data Portability:
+Request the transfer of your data to another service provider.
+To exercise any of these rights, please contact us directly using the details below.
+7. Contact Details & Regulatory Body
+If you have any questions about this Privacy Policy or wish to exercise your data protection rights, please contact:
+Data Controller:
+Timur (Joe) Rahman (Digital Joe)
+Email:
+t.y.rahman@hotmail.com
+Telephone:
++44 (0) 7709 420620
+If you are unsatisfied with how your data is handled, you have the right to lodge a complaint with the UK supervisory authority:
+Information Commissioner's Office (ICO)
+Website:
+https://ico.org.uk
+Helpline:
+0303 123 1113
+Information icon
+We need your consent to load the translations
+We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
+Decline
+Accept
+Cookie icon
+This site uses third-party website tracking technologies to provide and continually improve our services, and to
+        display advertisements according to users' interests. I agree and may revoke or change my consent at any time
+        with effect for the future.
+Configure
+Accept
+Reject
+Cookie icon
+Privacy Settings
+IONOS SiteAnalytics
+Google Maps
+Privacy Settings
+This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle
+Select all services
+Toggle
+IONOS SiteAnalytics
+More
+Less
+IONOS SiteAnalytics
+This service allows us to analyse user behaviour on our website to improve its functionality and user experience.
+    IONOS SiteAnalytics helps us understand how visitors interact with our content, which pages are most popular, and
+    how we can optimise our site's technical performance.
+Data Purposes
+This list represents the purposes of the data collection and processing.
+Statistical analysis of user behaviour
+Measurement of website reach
+Technical optimisation of the website
+Technologies Used
+This service uses a tracking pixel or server-side log files to collect data. It does not use cookies to store
+    information on your device.
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+Referrer (previously visited website)
+Requested website or file
+Browser type and browser version
+Operating system used
+Device type used
+Time of access
+IP address in anonymised form (used only to determine the location of access)
+Legal Basis
+Your consent, according to Art. 6(1)(a) of the General Data Protection Regulation (GDPR).
+Location of Processing
+Germany and the European Union.
+Retention Period
+The collected data is stored for a period of 8 weeks and then automatically deleted.
+Transfer to Third Countries
+No data is transferred to countries outside the European Union.
+Data Recipients
+IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur, Germany
+Privacy Policy
+https://www.ionos.co.uk/terms-gtc/privacy-policy/
+Toggle
+Google Maps
+More
+Less
+Google Maps
+This is a web mapping service.
+Company which processes the data
+Google Ireland Limited
+Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
+Data Purposes
+This list represents the purposes of the data collection and processing. A consent is only valid for the stated
+    purposes. The collected data can't be used or stored for any other purpose then the purposes listed below.
+Displaying Maps
+Technologies Used
+Cookies
+Data Collected
+This list represents all (personal) data that is collected by or through the use of this service.
+IP address
+Location information
+Legal Basis
+This represents the legal basis which is required for all processing purposes by the GDPR. Common legal grounds are
+    Art. 6 (1) (a) GDPR, if a user has given their consent and Art. 6 (1) (f), if the processing of personal data is
+    essential for providing the services.
+Art. 6 (1) (a) GDPR
+Location of Processing
+European Union
+Retention period
+The retention period is the time span the collected data is saved for the processing purposes. The data needs to be
+    deleted as soon as it is no longer needed for the stated processing purposes.
+The data will be deleted as soon as they are no longer needed for the processing purposes.
+Click here to read the privacy policy of the data processor
+https://policies.google.com/privacy?hl=en
+Click here to opt out from this processor across all domains
+https://safety.google/privacy/privacy-controls/
+Click here to read the cookie policy of the data processor
+https://policies.google.com/technologies/cookies?hl=en
+Save Settings
