@@ -26,7 +26,15 @@ st.markdown("""
             width: 100vw !important;
         }
 
-        /* Fixed Chat Input bar with Dark Styling */
+        /* Fixed Chat Input Outer Area & Bottom Container */
+        [data-testid="stBottom"],
+        [data-testid="stBottom"] > div,
+        [data-testid="stChatInputContainer"] {
+            background-color: #1e1e1e !important;
+            border-color: #333333 !important;
+        }
+
+        /* Fixed Chat Input Bar Styling */
         [data-testid="stChatInput"] {
             position: fixed !important;
             bottom: 10px !important;
@@ -39,6 +47,8 @@ st.markdown("""
             background-color: #1e1e1e !important;
         }
 
+        /* Input Textbox Outer Box & Textarea */
+        [data-testid="stChatInput"] > div,
         [data-testid="stChatInput"] textarea {
             background-color: #2b2b2b !important;
             color: #ffffff !important;
@@ -72,7 +82,7 @@ st.markdown("""
             padding-bottom: 95px !important;
         }
         
-        /* Uniform Font Styles & Universal White Text (Excluding Custom Title) */
+        /* Uniform Font Styles & Universal White Text */
         html, body, [class*="css"], .stMarkdown, p, span, div, caption, .stTextInput, textarea, input, label, [data-testid="stMarkdownContainer"] p {
             font-size: 15px !important;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
