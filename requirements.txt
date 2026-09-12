@@ -1,9 +1,10 @@
-streamlit
+fastapi
+uvicorn
 langchain-google-genai
 langchain-core
-python-dotenv
 numpy
+pydantic
+python-dotenv
 beautifulsoup4
 playwright
-pydantic
 tqdm
