@@ -17,7 +17,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# Custom Styling (Black background, specific hex colors, white frame, light grey customer text, white bot/intro text)
+# Custom Styling: Black background, white frame, title #11C5BB, and all chat/intro text strictly white
 st.markdown("""
     <style>
     .stApp {
@@ -32,7 +32,7 @@ st.markdown("""
         font-size: 1.1rem;
         margin-bottom: 20px;
     }
-    /* Chat message container styling */
+    /* Chat message container styling with white frame */
     .stChatMessage {
         background-color: #111111;
         border: 1px solid #FFFFFF;
@@ -40,20 +40,15 @@ st.markdown("""
         padding: 10px;
         margin-bottom: 10px;
     }
-    /* Customer text color: light grey */
-    [data-testid="stChatMessage"]:nth-child(odd) p {
-        color: #D3D3D3 !important;
-    }
-    /* Bot text color: white */
-    [data-testid="stChatMessage"]:nth-child(even) p {
+    /* Force ALL chat message texts (both user and assistant) to be pure white */
+    [data-testid="stChatMessage"] p, 
+    [data-testid="stChatMessage"] span,
+    [data-testid="stChatMessage"] div {
         color: #FFFFFF !important;
     }
-    /* Toggle icon positioning */
-    .floating-toggle {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        z-index: 9999;
+    /* Style chat input box text */
+    .stChatInput input {
+        color: #FFFFFF !important;
     }
     </style>
 """, unsafe_allow_html=True)
@@ -170,58 +165,47 @@ def process_qna_retrieval(user_message: str) -> str:
 
 # --- UI LAYOUT ---
 
-# Floating Toggle Button (Bottom-Right Corner)
-if not st.session_state.chat_open:
-    col1, col2 = st.columns([10, 1])
-    with col2:
-        if st.button("💬", help="Open Chatbot"):
-            st.session_state.chat_open = True
-            st.rerun()
+# Chat Window Container
+top_col1, top_col2 = st.columns([11, 1])
+with top_col1:
+    st.markdown("<h1>Digital Joe AI Assistant</h1>", unsafe_allow_html=True)
+with top_col2:
+    # Optional clear / reset memory button or spacing placeholder
+    pass
 
-# Chat Window Container (Rendered when open)
-if st.session_state.chat_open:
-    # Top bar with Red Cross close button
-    top_col1, top_col2 = st.columns([11, 1])
-    with top_col1:
-        st.markdown("<h1>Digital Joe AI Assistant</h1>", unsafe_allow_html=True)
-    with top_col2:
-        if st.button("❌", help="Close Chat"):
-            st.session_state.chat_open = False
-            st.rerun()
+st.markdown('<p class="intro-text">Welcome! Ask me anything about Digital Joe’s AI solutions, data dashboards, or tutoring services.</p>', unsafe_allow_html=True)
 
-    st.markdown('<p class="intro-text">Welcome! Ask me anything about Digital Joe’s AI solutions, data dashboards, or tutoring services.</p>', unsafe_allow_html=True)
+# Render message history
+for message in st.session_state.chat_session_history:
+    if isinstance(message, HumanMessage):
+        with st.chat_message("user", avatar="customer_avatar.png"):
+            st.markdown(message.content)
+    elif isinstance(message, AIMessage):
+        with st.chat_message("assistant", avatar="dj_avatar.png"):
+            st.markdown(message.content)
 
-    # Render message history
-    for message in st.session_state.chat_session_history:
-        if isinstance(message, HumanMessage):
-            with st.chat_message("user", avatar="customer_avatar.png"):
-                st.markdown(message.content)
-        elif isinstance(message, AIMessage):
-            with st.chat_message("assistant", avatar="dj_avatar.png"):
-                st.markdown(message.content)
-
-    # Chat input box
-    if user_input := st.chat_input("Type your message here..."):
-        if len(user_input.split()) > 250:
-            st.warning("Please limit your message to a maximum of 250 words.")
+# Chat input box
+if user_input := st.chat_input("Type your message here..."):
+    if len(user_input.split()) > 250:
+        st.warning("Please limit your message to a maximum of 250 words.")
+    else:
+        with st.chat_message("user", avatar="customer_avatar.png"):
+            st.markdown(user_input)
+        
+        guard_status = check_guardrails(user_input)
+        if guard_status == "SAFETY_VIOLATION":
+            reply = "This request is not safe. Please do not continue with this type of inquiry."
+        elif guard_status == "REDIRECT_REQUEST":
+            reply = "If you need support on coding topics or legal advice, please contact Digital Joe directly: https://www.digitaljoe.io/contact/."
         else:
-            with st.chat_message("user", avatar="customer_avatar.png"):
-                st.markdown(user_input)
-            
-            guard_status = check_guardrails(user_input)
-            if guard_status == "SAFETY_VIOLATION":
-                reply = "This request is not safe. Please do not continue with this type of inquiry."
-            elif guard_status == "REDIRECT_REQUEST":
-                reply = "If you need support on coding topics or legal advice, please contact Digital Joe directly: https://www.digitaljoe.io/contact/."
-            else:
-                reply = process_qna_retrieval(user_input)
+            reply = process_qna_retrieval(user_input)
 
-            with st.chat_message("assistant", avatar="dj_avatar.png"):
-                st.markdown(reply)
+        with st.chat_message("assistant", avatar="dj_avatar.png"):
+            st.markdown(reply)
 
-            # Update session history
-            st.session_state.chat_session_history.append(HumanMessage(content=user_input))
-            st.session_state.chat_session_history.append(AIMessage(content=str(reply)))
-            
-            if len(st.session_state.chat_session_history) > 50:
-                st.session_state.chat_session_history = st.session_state.chat_session_history[-50:]
+        # Update session history
+        st.session_state.chat_session_history.append(HumanMessage(content=user_input))
+        st.session_state.chat_session_history.append(AIMessage(content=str(reply)))
+        
+        if len(st.session_state.chat_session_history) > 50:
+            st.session_state.chat_session_history = st.session_state.chat_session_history[-50:]
