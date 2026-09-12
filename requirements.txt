@@ -1,10 +1,10 @@
-fastapi
-uvicorn
+streamlit
+numpy
+pandas
+beautifulsoup4
+python-dotenv
+pydantic
 langchain-google-genai
 langchain-core
-numpy
-pydantic
-python-dotenv
-beautifulsoup4
-playwright
 tqdm
+playwright
