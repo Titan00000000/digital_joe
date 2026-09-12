@@ -48,7 +48,7 @@ st.markdown("""
     }
     /* Style chat input box text */
     .stChatInput input {
-        color: #FFFFFF !important;
+        color: #000000 !important;
     }
     </style>
 """, unsafe_allow_html=True)
