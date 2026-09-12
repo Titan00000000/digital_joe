@@ -180,7 +180,7 @@ def process_qna_retrieval(user_message: str) -> str:
 # Chat Window Container
 top_col1, top_col2 = st.columns([11, 1])
 with top_col1:
-    # st.markdown("<h1>Digital Joe AI Assistant</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>Digital Joe AI Assistant</h1>", unsafe_allow_html=True)
 with top_col2:
     # Optional clear / reset memory button or spacing placeholder
     pass
