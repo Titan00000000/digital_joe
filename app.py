@@ -40,14 +40,21 @@ st.markdown("""
         padding: 10px;
         margin-bottom: 10px;
     }
-    /* Force ALL chat message texts (both user and assistant) to be pure white */
+    /* Force assistant chat message text to be pure white */
     [data-testid="stChatMessage"] p, 
     [data-testid="stChatMessage"] span,
     [data-testid="stChatMessage"] div {
         color: #FFFFFF !important;
     }
-    /* Style chat input box text */
-    .stChatInput input {
+    /* Target user prompts / messages to have black text */
+    [data-testid="stChatMessage"]:has(img[src*="customer_avatar"]) p,
+    [data-testid="stChatMessage"]:has(img[src*="customer_avatar"]) span,
+    [data-testid="stChatMessage"]:has(img[src*="customer_avatar"]) div {
+        color: #000000 !important;
+    }
+    /* Style chat input box text and placeholder to be black */
+    .stChatInput input, 
+    .stChatInput input::placeholder {
         color: #000000 !important;
     }
     </style>
