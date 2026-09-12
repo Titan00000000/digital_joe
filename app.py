@@ -46,16 +46,21 @@ st.markdown("""
     [data-testid="stChatMessage"] div {
         color: #FFFFFF !important;
     }
-    /* Target user prompts / messages to have black text */
+    /* Target user messages/prompts to have black text */
     [data-testid="stChatMessage"]:has(img[src*="customer_avatar"]) p,
     [data-testid="stChatMessage"]:has(img[src*="customer_avatar"]) span,
     [data-testid="stChatMessage"]:has(img[src*="customer_avatar"]) div {
         color: #000000 !important;
     }
-    /* Style chat input box text and placeholder to be black */
-    .stChatInput input, 
-    .stChatInput input::placeholder {
+    /* Force chat input textarea and input text to be black */
+    .stChatInput textarea,
+    .stChatInput input {
         color: #000000 !important;
+    }
+    /* Force placeholder text to be dark grey/black */
+    .stChatInput textarea::placeholder,
+    .stChatInput input::placeholder {
+        color: #555555 !important;
     }
     </style>
 """, unsafe_allow_html=True)
