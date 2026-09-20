@@ -1,4 +1,4 @@
-# The Sunday Therapist RAG based chatbot
+# Digital Joe RAG based chatbot
 
 An intelligent, Retrieval Augmented Generation (RAG) chatbot designed to act as a knowledgeable assistant for Digital Joe (digitaljoe.io)[cite: 14]. This system utilises a hybrid retrieval architecture built using Python, NumPy, LangChain, and the Google Gemini API, deployed via a Streamlit interface and embedded into IONOS
 
