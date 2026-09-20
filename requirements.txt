@@ -1,10 +1,5 @@
 streamlit
-numpy
-pandas
-beautifulsoup4
-python-dotenv
-pydantic
 langchain-google-genai
 langchain-core
-tqdm
-playwright
+numpy
+python-dotenv
