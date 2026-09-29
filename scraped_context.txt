@@ -1,11 +1,16 @@
-﻿
+
 --- Source: https://www.digitaljoe.io/ ---
 Digital Joe | Practical AI, Data & Power BI Solutions
 Practical AI, Data & Computer Science Solutions
 I help businesses and learners make sense of their numbers and automate routine tasks without the confusing tech speak.
-Tailored Tutoring, Data Consultancy and AI -
-Zero Jargon.
-Tutoring, custom Power BI dashboards, bespoke AI solutions all designed to save you time and build your confidence.
+What I Do, Why It Matters, & How I Help
+What do I do?
+I provide tailored tutoring, data consultancy, and AI solutions to help you understand the jargon.
+Why it matters?
+I want to help people succeed, save time, and build confidence in AI, Data, and Computer Science.
+How I help?
+By demystifying the tech, building tailored solutions, and coaching you every step of the way. Explore the jargon buster below, or visit my services page to see how I can help.
+Explore Services
 Jargon Buster
 Power BI
 A visual tool that connects to your data and turns rows of numbers into easy to read charts.
@@ -111,8 +116,7 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
 
 --- Source: https://www.digitaljoe.io/about/ ---
 About Joe | 20+ Years in Computer Science & AI Leadership
@@ -140,7 +144,7 @@ Demystifying Data Science & AI
 Since 2021, I’ve coached professionals in Data Science and AI, stripping away the jargon to make learning interactive, practical, and hands-on. I help clients navigate AI strategy, generative and agentic AI, and data engineering so they can turn raw data into automated insights.
 Ready to Get Started?
 Explore how we can work together, or head over to the contact page to drop me a message!
-Discover Digital Services
+Explore Services
 Information icon
 We need your consent to load the translations
 We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
@@ -239,8 +243,7 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
 
 --- Source: https://www.digitaljoe.io/services/ ---
 Services & Pricing | Power BI Dashboards, AI Tools & Tutoring
@@ -265,22 +268,22 @@ Services, Package Details and Pricing
 | Services | Package Details | Prices |
 | --- | --- | --- |
 | 1-to-1 GCSE Computer Science Mentoring | Tailored lessons to help you get the best grade possible for GCSE Computer Science. | £50 per hour. |
-| 1-to-1 Data & AI Mentoring | Personalised coaching in Data Analytics, Power BI, Python, or AI fundamentals. | £60 per hour. |
-| Group training on AI, AI Leadership or Data | Interactive workshops or lecturing can be provided to groups on how to use data effectively. This can be a class of 10 or a lecture group of 100 | £40per person for 3 hours of training per half day. <br> £75per person for 6 hours of training per day. |
+| 1-to-1 Data & AI Mentoring | Personalised coaching in Data Analytics, Power BI, Python, or AI fundamentals. | £75 per hour. |
+| Group training on AI, AI Leadership or Data | Interactive workshops or lecturing can be provided to groups on how to use data effectively. This can be a class of 10 or a lecture group of 100 | £400per half day. <br> £750per day. |
 | Associate trainer with Independent Training Providers | Training your cohorts in AI, Data or Computer Science | Can be negotiated per half day or day. |
 ### Service Category: 02 Smart Dashboards
 
 | Services | Package Details | Prices |
 | --- | --- | --- |
-| Power BI Dashboard Build | Turning your raw spreadsheets into an automated, interactive visual dashboard for fast decision making. | £2000for a Single school/business). <br> +£1000for each additional school within a MAT or multi-site business. <br> API and hosting feesare billed separately. |
+| Power BI Dashboard Build | Turning your raw spreadsheets into an automated, interactive visual dashboard for fast decision making. | £2,000for a starter package: Up to 5 data sources/spreadsheets and 5 custom dashboard pages. <br> £3,500+for a advanced package: Tailored for 5+ data sources or complex dashboard requirements (custom quote provided). <br> Note: API integration and hosting fees are billed separately. |
 ### Service Category: 03 Tailored AI Tools
 
 | Services | Package Details | Prices |
 | --- | --- | --- |
 | AI Automation Workspace Setup | Pre-configuring prompt libraries and AI tool workflows tailored to your business needs. | £150 for a one off set up fee. |
 | AI Automation Workspace Training | Interactive half day or full day team training on using the new setup effectively. | £40per person for a half day. <br> £75per person for a full day. |
-| Custom AI Knowledge Assistant | A bespoke AI chatbot grounded on your organisation's internal files and documentation, delivering instant, accurate, and secure answers across your systems. | £950for a starter build. Up to 25 pages / Single domain (FAQs, basic policy bot). 1 month free support included. <br> £2450for a professional build. Up to 200 pages / Multi-document ingestion / CRM or booking integration. 3 months free support included. <br> £50per hour for additional support beyond any free support offered on your package. <br> API and hosting feesare billed separately. |
-| Agentic AI | Custom autonomous AI agents designed to execute complex, multi step workflows such as automated document processing, data extraction, and intelligent inquiry routing saving your business time and reducing operational costs. | Scope and pricing tailoredbased on system complexity and data integration needs. 1 month free support included. <br> £50per hour for additional support beyond any free support offered on your package. <br> API and hosting feesare billed separately. |
+| Custom AI Knowledge Assistant | A bespoke AI chatbot grounded on your organisation's internal files and documentation, delivering instant, accurate, and secure answers across your systems. | £950for a starter build. Up to 25 pages / Single domain (FAQs, basic policy bot). 1 month free support included. <br> £2450for a professional build. Up to 200 pages / Multi-document ingestion / CRM or booking integration. 3 months free support included. <br> £75per hour for additional support beyond any free support offered on your package. <br> Note: API integration and hosting fees are billed separately. |
+| Agentic AI | Custom autonomous AI agents designed to execute complex, multi step workflows such as automated document processing, data extraction, and intelligent inquiry routing saving your business time and reducing operational costs. | Scope and pricing tailoredbased on system complexity and data integration needs. 1 month free support included. <br> £75per hour for additional support beyond any free support offered on your package. <br> Note: API integration and hosting fees are billed separately. |
 Information icon
 We need your consent to load the translations
 We use a third-party service to translate the website content that may collect data about your activity. Please review the details in the privacy policy and accept the service to view the translations.
@@ -379,8 +382,7 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
 
 --- Source: https://www.digitaljoe.io/reviews/ ---
 Client Reviews & Results | Data Engineering & AI Case Studies
@@ -518,8 +520,7 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
 
 --- Source: https://www.digitaljoe.io/contact/ ---
 Contact Digital Joe | Book a Free 1-Hour Consultation
@@ -654,8 +655,7 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
 
 --- Source: https://www.digitaljoe.io/legal-notice/ ---
 Digital Joe | Legal Notice
@@ -829,8 +829,7 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
 
 --- Source: https://www.digitaljoe.io/privacy-policy/ ---
 Digital Joe | Privacy Policy
@@ -996,5 +995,4 @@ https://safety.google/privacy/privacy-controls/
 Click here to read the cookie policy of the data processor
 https://policies.google.com/technologies/cookies?hl=en
 Save Settings
-Digital Joe AI
-✕
+Digital Joe Chatbot
